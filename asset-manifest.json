@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rim-web/static/css/main.69a0eb1a.css",
+    "main.js": "/rim-web/static/js/main.f567693e.js",
+    "index.html": "/rim-web/index.html",
+    "main.69a0eb1a.css.map": "/rim-web/static/css/main.69a0eb1a.css.map",
+    "main.f567693e.js.map": "/rim-web/static/js/main.f567693e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69a0eb1a.css",
+    "static/js/main.f567693e.js"
+  ]
+}
