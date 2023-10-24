@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rim-web/static/css/main.ba8ed37e.css",
-    "main.js": "/rim-web/static/js/main.24ce8b82.js",
+    "main.js": "/rim-web/static/js/main.0222df51.js",
     "index.html": "/rim-web/index.html",
     "main.ba8ed37e.css.map": "/rim-web/static/css/main.ba8ed37e.css.map",
-    "main.24ce8b82.js.map": "/rim-web/static/js/main.24ce8b82.js.map"
+    "main.0222df51.js.map": "/rim-web/static/js/main.0222df51.js.map"
   },
   "entrypoints": [
     "static/css/main.ba8ed37e.css",
-    "static/js/main.24ce8b82.js"
+    "static/js/main.0222df51.js"
   ]
 }
