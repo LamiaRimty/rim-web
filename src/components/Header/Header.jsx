@@ -10,10 +10,9 @@ function Header() {
             <img
               id="header-img"
               height="30"
-              src="https://h2.commercev3.net/cdn.brecks.com/images/800/89444A.jpg"
+              src="images/rimty-logo.png"
               alt="rimty"
             />
-            RIMTY
           </a>
           <button
             className="navbar-toggler"
@@ -80,19 +79,29 @@ function Header() {
               <li className="ms-3 social-links" id="social-links">
                 <a
                   className="footer-link text-body-secondary"
-                  href="https://www.facebook.com/L.J.Rimty"
+                  href="https://www.linkedin.com/in/lamia-jabin-rimty-0020a2219/"
                 >
-                  <i className="fa-brands fa-facebook header-icon"></i>
+                  <i className="fa-brands fa-linkedin header-icon"></i>
                 </a>
               </li>
               <li className="ms-3 social-links" id="social-links">
                 <a
                   className="footer-link text-body-secondary"
-                  href="https://www.instagram.com/ik_rimty?fbclid=IwAR16dk9evu7OMdz1STbLtI2xAwTaPAo6KdBDXHD9kek9bcdvgtgEK9f7qIw"
+                  href="https://github.com/LamiaRimty"
+                >
+                  <i className="fa-brands fa-github header-icon"></i>
+                </a>
+              </li>
+
+              <li className="ms-3 social-link" id="social-links">
+                <a
+                  className="footer-link text-body-secondary"
+                  href="https://www.instagram.com/ik_rimty/"
                 >
                   <i className="fa-brands fa-instagram header-icon"></i>
                 </a>
               </li>
+
               <li className="ms-3 social-link" id="social-links">
                 <a
                   className="footer-link text-body-secondary"

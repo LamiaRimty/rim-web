@@ -37,6 +37,7 @@ function Contact() {
               <span className="contact-subtitle">
                 <a
                   className="mobile-no"
+                  id="phone"
                   href="https://api.whatsapp.com/send?phone=+310626344867"
                 >
                   +310626344867
@@ -70,7 +71,7 @@ function Contact() {
           </div>
         </div>
 
-        <form
+        {/* <form
           ref={form}
           onSubmit={sendEmail}
           className="contact-form grid animate__animated animate__slideInRight"
@@ -121,7 +122,7 @@ function Contact() {
               <i className="uil uil-message button-icon"></i>
             </a>
           </div>
-        </form>
+        </form> */}
       </div>
       <div className="b-example-divider"></div>
     </section>

@@ -22,7 +22,9 @@
     color: var(--text-color-2nd);
     
 }
-
+#phone{
+ color: #435334;
+}
 .contact-content{
     background-color: var(--first-color-lighter);
     border-radius: 8px;

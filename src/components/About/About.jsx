@@ -22,13 +22,13 @@ function About() {
           </div>
           <div className="col-10 col-sm-8 col-lg-6 detail  animate__animated animate__slideInRight animate__delay-4s">
             <p className="lead mx-auto" id="about-desc">
-              Hello! I’m Rimty. I am a <em>Computer Science</em> graduate
-              interested in UI/UX design and Front End Development. I am hard
-              working and motivated to build this as my career.
+              Hello! I’m Lamia Jabin Rimty. I am a <em>Computer Science</em>{" "}
+              graduate interested in UI/UX design and Front End Development. I
+              am hard working and motivated to build this as my career.
               <br />
               <br />
               Beautiful <em>Bangladesh</em> is a small country in South Asia &
-              that’s where I am from.I now live in the Netherlands.I initially
+              that’s where I am from. I now live in the Netherlands. I initially
               came here in 2022.
             </p>
             <div className="d-grid gap-2 d-md-flex justify-content-md-start">

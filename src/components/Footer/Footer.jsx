@@ -13,10 +13,9 @@ function Footer() {
               <img
                 className="foorterImg"
                 height="30"
-                src="https://h2.commercev3.net/cdn.brecks.com/images/800/89444A.jpg"
+                src="images/rimty-logo.png"
                 alt="rimty"
               />
-              <span className="footer-brand">RIMTY</span>
             </a>
             <p className="footer-intro">UI/UX & Frontend Developer</p>
           </div>
