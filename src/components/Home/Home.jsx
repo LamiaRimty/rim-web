@@ -1,6 +1,24 @@
 import "./Home.css";
+import React from "react";
+import Typed from "typed.js";
 
 function Home() {
+  const el = React.useRef(null);
+  React.useEffect(() => {
+    const typed = new Typed(el.current, {
+      strings: ["Rimty!", "Frontend Developer", "UI/UX Designer", "Painter"],
+
+      loop: true,
+      typeSpeed: 100,
+      backSpeed: 80,
+      backDelay: 1500,
+    });
+
+    return () => {
+      // Destroy Typed instance during cleanup to stop animation
+      typed.destroy();
+    };
+  }, []);
   return (
     <section id="home">
       <div className="container col-xxl-8 px-4 py-4">
@@ -26,12 +44,13 @@ function Home() {
             />
           </div> */}
           <div className="col-lg-6">
+            {/* <h3 className="home-subtitle animate__animated animate__backInRight">
+              Hello
+            </h3> */}
             <h1 className="display-5 fw-bold lh-1 mb-3 home-title animate__animated animate__rollIn">
-              Hi, I'm Rimty!
+              Hi,I'm <span ref={el} className="home-typed" />
             </h1>
-            <h3 className="home-subtitle animate__animated animate__backInRight">
-              UI/UX & Frontend Developer
-            </h3>
+
             <p className="home-desc animate__animated animate__backInRight">
               Interested in UI/UX Design & Web Development
             </p>

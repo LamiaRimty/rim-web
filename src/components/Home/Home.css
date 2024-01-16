@@ -1,9 +1,15 @@
 .home-title{
     /* font-size: var(--big-font); */
-   
-    font-family: 'Abril Fatface', serif;
+    font-family: fantasy;
+    font-weight:bold;
 
 }
+.home-typed{
+    font-family: fantasy;
+    font-weight:bold;
+    font-size: 40px;
+}
+
 
 .home-subtitle{
     
