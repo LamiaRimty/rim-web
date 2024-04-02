@@ -38,10 +38,13 @@ function Portfolio() {
                 alt="memoir"
               />
               <div className="carousel-caption d-none d-md-block">
-                <a href="https://github.com/LamiaRimty/Memoir">
+                <a
+                  href="https://github.com/LamiaRimty/Memoir"
+                  className="project"
+                >
                   <h5 className="carosal-title">Memoir</h5>
                 </a>
-                <p className="carosal-info">My personal Blog Website</p>
+                <p className="carosal-info">My Personal Blog Website</p>
               </div>
             </div>
             <div className="carousel-item " data-bs-interval="2000">
@@ -51,10 +54,13 @@ function Portfolio() {
                 alt="minder"
               />
               <div className="carousel-caption d-none d-md-block">
-                <a href="https://github.com/LamiaRimty/Minder">
+                <a
+                  href="https://github.com/LamiaRimty/Minder"
+                  className="project"
+                >
                   <h5 className="carosal-title">Minder</h5>
                 </a>
-                <p className="carosal-info">My little To-Do-list App</p>
+                <p className="carosal-info">My Little To-Do-list App</p>
               </div>
             </div>
             <div className="carousel-item">
@@ -64,12 +70,51 @@ function Portfolio() {
                 alt="rimty cakery"
               />
               <div className="carousel-caption d-none d-md-block">
-                <a href="https://drive.google.com/drive/u/0/home">
+                <a
+                  href="https://drive.google.com/drive/u/0/home"
+                  className="project"
+                >
                   <h5 className="carosal-title">Rimty Cakery</h5>
                 </a>
                 <p className="carosal-info">
                   Bakery Website designed on Adobe Xd{" "}
                 </p>
+              </div>
+            </div>
+
+            <div className="carousel-item">
+              <img
+                src="images/rimty cakery.png"
+                className=" portfolio-img d-block w-100"
+                alt="rimty cakery"
+              />
+              <div className="carousel-caption d-none d-md-block">
+                <a
+                  href="https://drive.google.com/drive/u/0/home"
+                  className="project"
+                >
+                  <h5 className="carosal-title">Bibliotheek</h5>
+                </a>
+                <p className="carosal-info">
+                  A book-Sharing Website. My University Project.
+                </p>
+              </div>
+            </div>
+
+            <div className="carousel-item">
+              <img
+                src="images/foto.png"
+                className=" portfolio-img d-block w-100"
+                alt="rimty cakery"
+              />
+              <div className="carousel-caption d-none d-md-block">
+                <a
+                  href="https://drive.google.com/drive/u/0/home"
+                  className="project"
+                >
+                  <h5 className="carosal-title">Fotographie</h5>
+                </a>
+                <p className="carosal-info">Travel Photography Website.</p>
               </div>
             </div>
           </div>

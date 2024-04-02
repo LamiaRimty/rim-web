@@ -36,7 +36,12 @@ opacity: 0.9;
 }
 .carosal-info{
     font-size:20px;
-    font-weight: bold;
+    font-weight: 500;
     color:var(--first-color-light)
 
+}
+
+.project{
+    font-family: var(--input-color);
+    color: #435334;
 }
