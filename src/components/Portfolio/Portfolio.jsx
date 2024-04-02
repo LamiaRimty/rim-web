@@ -84,13 +84,13 @@ function Portfolio() {
 
             <div className="carousel-item">
               <img
-                src="images/rimty cakery.png"
+                src="images/bib.png"
                 className=" portfolio-img d-block w-100"
                 alt="rimty cakery"
               />
               <div className="carousel-caption d-none d-md-block">
                 <a
-                  href="https://drive.google.com/drive/u/0/home"
+                  href="https://github.com/LamiaRimty/Bibliotheek"
                   className="project"
                 >
                   <h5 className="carosal-title">Bibliotheek</h5>
@@ -109,10 +109,10 @@ function Portfolio() {
               />
               <div className="carousel-caption d-none d-md-block">
                 <a
-                  href="https://drive.google.com/drive/u/0/home"
+                  href="https://github.com/LamiaRimty/Photography"
                   className="project"
                 >
-                  <h5 className="carosal-title">Fotographie</h5>
+                  <h5 className="carosal-title">Foto</h5>
                 </a>
                 <p className="carosal-info">Travel Photography Website.</p>
               </div>
