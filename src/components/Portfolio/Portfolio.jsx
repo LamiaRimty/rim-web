@@ -104,7 +104,7 @@ function Portfolio() {
             <div className="carousel-item">
               <img
                 src="images/foto.png"
-                className=" portfolio-img d-block w-100"
+                className="portfolio-img d-block w-100"
                 alt="rimty cakery"
               />
               <div className="carousel-caption d-none d-md-block">
