@@ -28,8 +28,7 @@ function About() {
               <br />
               <br />
               Beautiful <em>Bangladesh</em> is a small country in South Asia &
-              that’s where I am from. I now live in the Netherlands. I initially
-              came here in 2022.
+              that’s where I am from. I now live in the Netherlands.
             </p>
             <div className="d-grid gap-2 d-md-flex justify-content-md-start">
               <a

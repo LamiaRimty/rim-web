@@ -50,7 +50,7 @@ function Skills() {
               <ol className="list-group-numbered">
                 <li className="list-group-item">Node</li>
                 <li className="list-group-item">REST APIs</li>
-                <li className="list-group-item">MongoDB</li>
+                <li className="list-group-item">MySql</li>
               </ol>
             </div>
           </div>
